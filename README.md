@@ -1,2 +1,3 @@
 # uci-machine-learning-python
-End-to-end treatments of UC Irvine Machine Learning Repository datasets in Python
+
+My machine learning projects carried out in Python
